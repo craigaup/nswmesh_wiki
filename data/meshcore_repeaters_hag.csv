@@ -1,6 +1,6 @@
 Name,Public Key,Antenna Height Above Ground (m),Status
 Reserved by MeshCore,0000000000000000000000000000000000000000000000000000000000000000,,
-☢️ Bradbury-M,012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab,,
+☢️ Bradbury,012905f6fe2b496e89400b5c698e1c214602d4931dc1b5ef1145e7feeaff57ab,,
 Raglan MQTT Repeater,0148337aa906e02e5c3817cb0ee2ff538b3b6d4fcdbc6205d2bab89304898ace,,active
 NOT - ♾️ MMTV,01f9d3e925de7f2a1f18f6027fb51a7cab4052701eb45219d7cd0a9efdc26c0c,,active
 🎩 SIR v4.0,025bab3f98d6f27f1e01a80863082a5bd0ad50e42ace7b16705bdbfb49d56200,,active
@@ -44,7 +44,7 @@ Isso/Maryville 🐼,0f6c790b75d6af043a2630a14a54d7b57530641be572cd689bd8544f76df
 🌱Chester Street,113e9bce50a7a003c97fc13edeb093975a06087fbf16a3b62411931d0ac4f642,10,active
 Pico Repeater,119db0166f951aa1c84a543b155d026ddc223e89ee82fc2139c7c1cb0edae22e,,active
 munibung 🦇,120fb53b6e7b638e4e52c4c130e07624036d2cd5192ce857c358b6fdb4051b37,,active
-🌱Waterloo M,1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7,,delete
+🌱Waterloo,1244c5f64e7b65c419bd7f65da2a2416edf1efe84fd04e868ad77af0f131d4f7,,delete
 Mon Répéteur,1258ddee61493b7719a0bd2580cba8c32ed716d792160757304a11c916c63bc0,,active
 ✳️ Spring Farm,12e279dd0a177dccec012b1043e64fab15702fba1d1d7396e999383fdc8a460b,,active
 Mt. Reedy🦎,1337ced46daa34f812907075c44fc61ed157787336a3709dd05d15772332c9b6,,active
@@ -487,6 +487,7 @@ MC Dump 🍄,b79e9c33184c8207ed568115b0fa684b862ece76894bc52fad14c2c0f552a698,,a
 👽WazMac Br W,b8e105b8bde29917c52536d8a0e6a2283cba5f1d1f374e80b910a3356eda7d0f,,active
 JustSean Austinmer R1,b8f998565f8403ee500e4e98a2cb7058ef1e8101506c21f4fd15524bc433f846,,
 😬-Davidson-RPT,b90b56fe8570fa7889b8cce05ef5fad866812543be6fedeacc62ff344022cd93,,delete
+💢 ATRO - STRATHFIELD,b9acedb8ad1f8af1045fe61f8aa469b6b20ce4a576baa896c7ae7df5d2b1f240,,active
 Odinsdad reserved,b9bb336fae78e1e1d37ada112d82f282ddaf0aacf68d961b16d520c14498a6aa,,parked
 New Lambton Repeater,ba3c49dc66487b1ceeac1cf9b8cee7fe4aff8800f962cfb8361f9684c9c98d2c,,active
 👽West Hoxton II,bae752f552512fcfc97874444931039e79557011e2fc10e5d8895f83603e1487,,
@@ -581,7 +582,7 @@ Kearns Rpt 2 testing,da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa
 ♾️ MMTV - DCFEED,dcfeedeee78c0215580df3245751051bd3909491afc84cb878f519094bd8dc43,,active
 🇦🇺 TEMP RPT01,dd1241b62fc4af0f4f807b6092ad62f4175c62b223fe9d8f1d511896e1f5766a,,active
 Camden Rpt-Test,ddaffe181d91fef77142242d172b965f1e97cf0ac8dcfc3d6e5e9724cd98cc0c,,active
-☕️J Mobile rpt,ddb00b506583c3ab39731cfad678cfa192c9244311647a8019715d9ccb18f977,,active
+☕️ J Mobile rpt,ddb00b506583c3ab39731cfad678cfa192c9244311647a8019715d9ccb18f977,,active
 ♾️ MMTV - D - V2,dddddd8d7e2cd45a53bc3c80a4fd1ba4c6497a123dc66b1c5253647c25794e63,,active
 ♾️ MMTV - Luna Park,dddddddd167d58d080eef83633839c7cdcd330a565d8752f35effd623a376b30,,active
 ⚡- V4 Power Test,de4a2a2e304a716eef07e0a5fb4dc4fe5122bda5a64661efd89454c0d1a74699,,active
@@ -670,6 +671,7 @@ NSW Mt Wee Jasper 🐲,fb94d23b876c30394db8da710d1d6995273c8a7eb69d009582f3d6c88
 BlackHill 🍄,fcedee7c9575987a6ce1ee720a81ee8a40cadf20bffd95f3ecc75a1c8835c686,,active
 ♾️ MMTV - FCFEED,fcfeed3ca59fc4c91a7b5cc7e572813d773f5b9324772fbe9d8a3af1a9580dc9,,active
 Berowra Observer,fd43922733335d3ef9cbb7873c48db97797ba3e00adaae5a3cb369ef3861ee6a,,active
+🚀 - Cherrybrook,fddcd80d995c2408caccb6e2df2440efdce5392d64bca9e6f7422c2e11e63f82,,active
 ♾️ MMTV - Mobile,fdfeed057df95175dd6d5b86c936e988b0aef9b2b1cd93dc89b0c24e10e7cc22,,
 🕹️ Cameron Park,fea488fcc64de6e0e27e46233d02f6455223dd16609ca528fa7deedc42cd7b0c,,active
 ♾️ MMTV - R FEFEED,fefeed524dc21c6870be4324f196c5e7c05093dca153b7b489fb09087df0b7e1,,active
