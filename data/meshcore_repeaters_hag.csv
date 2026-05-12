@@ -48,7 +48,7 @@ munibung 🦇,120fb53b6e7b638e4e52c4c130e07624036d2cd5192ce857c358b6fdb4051b37,,
 Mon Répéteur,1258ddee61493b7719a0bd2580cba8c32ed716d792160757304a11c916c63bc0,,active
 ✳️ Spring Farm,12e279dd0a177dccec012b1043e64fab15702fba1d1d7396e999383fdc8a460b,,active
 Mt. Reedy🦎,1337ced46daa34f812907075c44fc61ed157787336a3709dd05d15772332c9b6,,active
-☕HarringtonPark,13378ba5c087d4cd66d4cddbfdb617d7937bb5f87414f6af8bc7169bd71fb6ad,,active
+☕Harrington Park,13378ba5c087d4cd66d4cddbfdb617d7937bb5f87414f6af8bc7169bd71fb6ad,,active
 Myrtleford-Skynet4-Lynx,13a4e5ae5c57f4ac9d230e42a9035d2d1599c9a0b92588b0a2f4590d0bdbfdf4,,active
 VIC-Bentleigh East 🗽,13c03646da4fc499a176f4f9831436e6708794ef9680fb3e1cc8c8ad2244a10e,,active
 🌱Cahill Street☀️,13d0ff4f248cfd0adb270a0d4dbab9caeb5f2fd8590fdf75db5b4a58a4454725,,active
@@ -253,7 +253,7 @@ South Bathurst Repeater,6040d1557b6e799d171f44ee6e2bc7feddc95eddfdbc6f4556fcf46a
 mukw Ultra,61385a07d341ffdc6e317bd6dad64f8c0321c03b45b319792ccb6d2757a87326,,active
 Not In Use R2,61a10335ff1612fbcdc1e4c991bc9cbd7854a87e81892a9c6ff905a1070a6900,,active
 2C-McAlister,61dfd561a435cc5d33701f69eb50a6ea1c4d9847119baa0f8f87da3ed042eb25,,active
-Patterson V4 🍄,620706a4eaada3f4fe53a0906d75441f97271a98c6ebcafb29b122f716cc6154,,active
+Patterson V4,620706a4eaada3f4fe53a0906d75441f97271a98c6ebcafb29b122f716cc6154,,active
 2C-PAC Temp2,628574bb5341e808b44d8783b1ce376a866e9a079d447a75f6a59cd5b379e7c4,,
 """Laura""_Monterey_Rptr",6292f6ce55965b28df65bf2af78473221fe15f050e22ed4c69c4282ff32e5c41,,active
 👾 Quakers Hill,62c6ba722167c03908fc00c25391998392842619e3301aaa745000be0e3bd8b2,,active
@@ -406,6 +406,7 @@ WisMesh M 1W Repeater,9803775bf6760a8683f3d970e903e9121fe371c2b3a4afccf8da52c1f3
 Mt Jerrabomberra 🐧,98c8327daa8d4e3e23f9961e5c5a5a26a1dd5e6db866c53f2dd75aa16c4c4486,,active
 🐝 Mt Bindo Rptr,98ee93cd3666552cfd57e0939effb4208773aff7519575db449e32c302b12001,,
 Alex - North Parramatta,99460a9ba0536120c9dfd13545b02717dad9f7133709a14d6fe74d8f368d9664,,active
+KLF Solar - Black,9990edb9230e98fa73accae64ccff02aac612c51d6e77b5b1fa5e8bd020287ca,,active
 ♾️ MMTV - N Sydney,9999999935d58326a83c7605d71796553fc9703a7ce91a21dc2cf110d86670c9,,active
 ♾️ MMTV X - 9 - TBA,999999fcc3fd97e9ddccd8240a596c234e78a88e08d49d4628bd66d5b9b3fb3a,,active
 ♾️ MMTV - IVY Pool,99feed0054267078e6f3ad40aa198a5cdddd2c2b04b39216727fcce86d383061,,active
@@ -547,7 +548,7 @@ SummerLoaf 🍄,cf6be58575f66dc5d4ccc76fd69ad94201a73f37bc26b7aa899a47725162a2ba
 l34-ambavale,cfd675066bb43e3a9b80192cc490199e5e96e20001e695cab180706ba859c6e1,,active
 🧿 Wentworth Pt South,cfe09b3776ac57d7acc876316dd95ff8ae6467e3fb7f53542f1b2f95d51a14b1,,active
 🧿 Wentworth Pt South,cfe0962a330628d4c5abb9cd4017fc355dcdb7b0eefc39ecc0199b03365df9a3,,active
-Mount Bright 🍄,d0388acc5b60cfca1e2f4004c8144821acd6674573c3153d03ecb7cd478c5213,,active
+Mount Bright,d0388acc5b60cfca1e2f4004c8144821acd6674573c3153d03ecb7cd478c5213,,active
 𝄞Do,d0ed09289a22978560314dce5f31340823d2d42240bcd78b6abde941d52e7ffd,,active
 🧿 Rhodes Brg Rpt,d0efcbb0696de3ba23eef28491e9d2f3f11c4af90db78a3a259f92af6d7d3784,,active
 Kingsway Cronulla Rptr,d1393cda9bbdbcb76a4234d9adff7de4e603bc07025c975b859438dac917a19c,,active
@@ -583,7 +584,7 @@ Kearns Rpt 2 testing,da26e5ab39f0136594f2120418fdda6d2b4aaaa8cf7bb4b8742f10100fa
 ♾️ MMTV - DCFEED,dcfeedeee78c0215580df3245751051bd3909491afc84cb878f519094bd8dc43,,active
 🇦🇺 TEMP RPT01,dd1241b62fc4af0f4f807b6092ad62f4175c62b223fe9d8f1d511896e1f5766a,,active
 Camden Rpt-Test,ddaffe181d91fef77142242d172b965f1e97cf0ac8dcfc3d6e5e9724cd98cc0c,,active
-☕️ J Mobile rpt,ddb00b506583c3ab39731cfad678cfa192c9244311647a8019715d9ccb18f977,,active
+☕J Mobile rpt,ddb00b506583c3ab39731cfad678cfa192c9244311647a8019715d9ccb18f977,,active
 ♾️ MMTV - D - V2,dddddd8d7e2cd45a53bc3c80a4fd1ba4c6497a123dc66b1c5253647c25794e63,,active
 ♾️ MMTV - Luna Park,dddddddd167d58d080eef83633839c7cdcd330a565d8752f35effd623a376b30,,active
 ⚡- V4 Power Test,de4a2a2e304a716eef07e0a5fb4dc4fe5122bda5a64661efd89454c0d1a74699,,active
@@ -613,6 +614,7 @@ Hill Top Central,e7939793d9524012ff349b7a71515ae3219a6a62eafe8ddd9cc335ec8d1f26d
 ⚡₂ - Normanhurst,e832aec88f4710acf16ac4608401076d693d9a3627519fe2401c58498d773bd3,,active
 VIC-WinterValley-EDG-01,e8357d4bed5d9b6acfab9643c1f344d0c72c1983ccd27cfa4db97f5662edc2b4,,active
 ♾️ MMTV™️ RAK S,e83f9dbf995b14ca73357aeb59cc3c8b34119edfb71d4573b8eddc6317d39eb2,,active
+HarringtonPk2,e9254fd83929c7aa47f3ca7c4d203e22263a9b28d5be9c52788a9dd1d2012daf,,active
 ✳️ Mount Annan Mid,e963cbc8acc7f1e9229479c9b7b78e58dd7dc28a87f2a7c37ffa3c353ea83cf2,,active
 Heltec Repeater v4 Towe,e9d7595e1dd92df64b5168d16c3fc1696d9d9d51ab161343e1c4c8e7738e66cd,,active
 Thirlmere Way,ea108c9bb5dea4778e1a9b1d815ec36835b504d134e48a4f879f7823bd65b9ed,,active
