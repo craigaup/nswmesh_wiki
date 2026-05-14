@@ -433,6 +433,7 @@ VIC-Wonthaggi-MOB,9ebd2e958f131154639bb7736aa408a9568442b665a54da828475e1a6957e8
 ☕ Newtown (Sydney) 1,a19b9cc396ad21e2dfa721417f26f2080f8b40b0ac1bc75107e102aa5dbbacd4,,active
 GUILDFORD,a20990423f7084b2724f6c3ff40da67db49952992bf791ff9a3f501775d8a3bf,,active
 VK2NAP V4 Repeater,a3f93576f8f463cd1fa8159b8876484ebd99e36c999c64f31b5f9668a367f72f,,active
+☕TBA,a4a4a916774445376ed3bdd9ade22cc74e219bc15398e34d5ea1c4e117dfc8a9,,active
 VIC-Linton-CORE-01,a56ff85f64a4af0c76aad213d88abfde643889584055d7359ba4223b138b3c53,,active
 🦘Eglinton Repeater,a5aadb96cfc7bb5b72e660c0504b28e92e231b409c3adf4450cbce3e6f5b66cf,,
 🗡️ Rooty Hill WF,a5b3cd5a86b165442e1ec2ac4d5dca1140474f1bc3cee04569ea09d402417fdd,,
@@ -452,7 +453,7 @@ North Kellyville Rptr,a9d47bc084c48142afabcdbe202986ad1bd45add093c78cb7e3fe0ea9d
 VK2BRM Repeater,aa7083bb94e776410d17cfed356172ec580a4d8481b4bc4a73f9a562da8c420e,,
 🦡 Northbridge Obs,aa861d93ada610e617ed7a0562b10922a952d0f3a6ce9b7b9a79d040ceb93cbc,,active
 ♾️ MMTV - Belfield,aaaaaa97e24042b1174a958a663c0a8843f529fce87bd83d8544b9c119079947,,active
-GymReps_V4_Mid,ab0de000e561e89bd6393405b5eeb728e1337316e834c377272b562e8c227e25,,active
+GymReps_V4,ab0de000e561e89bd6393405b5eeb728e1337316e834c377272b562e8c227e25,,active
 SpacePanda 🦊,ab517a34b8f68af9ed0aded71bba652e597a54e32a970adc0b7101bbf9b96b12,,active
 🛜LUX07 - Mt Gibralta,ab687e3dbbef93fbba17101f2b81e498c50ca6c1898b941586baf9f15d37d575,,
 VIC-HTSRpt-MOB-02,ac2040db25d7229ab9a30c130f09c4b30eb2998d2c53da4aed883673114bb2c2,,active
@@ -460,7 +461,7 @@ VIC-HTSRpt-MOB-02,ac2040db25d7229ab9a30c130f09c4b30eb2998d2c53da4aed883673114bb2
 repeater,acdc7efadc2b7ae2892474adfcfe02232b72987397ec1af067eb01830ea0d02d,,
 ♦️Ace,ace1234189ccc1725448316edb717d7e464040a076c939445a4d08a079bfa943,,active
 🦔 - Northbridge,ace45d886a2017f4d3c874b4ee8d7473321974876fe6804bc5c6b57a7d3f7640,,active
-♦♦WoroLora♦Mid♦,ace5855fd571f249ea103db1468b5b6803a98c83fdaf3b4158970d4afa826a57,,active
+♦♦WoroLora♦♦,ace5855fd571f249ea103db1468b5b6803a98c83fdaf3b4158970d4afa826a57,,active
 ✝️Mobile,ad3fcf8452917c3d01cda7834aa8ec63c07311f46f1373ad159819a0b5d850d0,,active
 Phlanks Mesh R1 Weston,ad41a4304a574d970d8fbf0719921ab3c946cd54a66aa19927c730a3512a7efb,,active
 BTQ -  Terry Hills,ae836f555cf9c41ced8c758a49400116765d6ba0c1f67d1bc60ee8433c03cd66,,
@@ -626,7 +627,7 @@ HarringtonPk2,e9254fd83929c7aa47f3ca7c4d203e22263a9b28d5be9c52788a9dd1d2012daf,,
 Heltec Repeater v4 Towe,e9d7595e1dd92df64b5168d16c3fc1696d9d9d51ab161343e1c4c8e7738e66cd,,active
 Thirlmere Way,ea108c9bb5dea4778e1a9b1d815ec36835b504d134e48a4f879f7823bd65b9ed,,active
 Braddon - CBR99,ea6ccd6d374bf4e5ad77bf236cc1c7a4e5f1331be2135a2081948b3673f1996d,,active
-Waravalley V4 🐭🍄,ea716ff3d7cee4ccdaec30e4cbf273c554b52ea7c5a8772cd7ade3dae3b84748,,active
+Waravalley,ea716ff3d7cee4ccdaec30e4cbf273c554b52ea7c5a8772cd7ade3dae3b84748,,active
 〽️ - Greenacre S3,ea953aba011eef0dbe4b35e2f60508f04960a6832cabc0bcee0ecea739dc6bf0,,active
 ♾️ MMTV - S Strathf,ea9ce65203f6d4c041adddacc1f5b4c55ecd1cef60b4517c67326abcf6a4df59,,active
 〽️ - Strathfield S,eaf5b69e08caee92e23a4fe72b7b2d867883a518a07a81ef0cb415aaa21b385b,,active
@@ -648,6 +649,7 @@ West Wallsmond,eeee1f284afc562b0a22a5e2e70a91d41ac8ee0c53e0180edf2b985eef69ebd8,
 ♾️ MMTV Belfield OL,f0feed6f965294a6cbd448ecc43ce46b0ebf8dc083e83003e16921e652707e5d,,
 Dubbo Hill 🐧,f1cff042a2c4b229a29cd78137609df7f719bdbc438f3d542b619c0f67535304,,active
 ✝️ Penrith Station,f1fc699ff05e41738524af480a24ccf5ada1f3248bd23d83f47ae69f44060193,,
+Daddy Repeater,f21017a0040493648c15db927914f71ad6c6cdcfd2dfe870ee686594ee3c3814,,active
 VIC-SUNBURY-EDG-01,f2631db0ebddba875162b8ce6347b6b4ccd263e07b1b6dc67602302867a3a3fc,,active
 ♾️ MMTV - Martin Pl,f2feedc0a1a6e76181adfe8ad906e325dc3b0e5e5e1db20bf5d8ac753892fda1,,
 KLF Heltec V4 Repeater,f32fc802e1311b63bffdc7f5cd3cb6f9270df67dd9fdd454880254bdeb4742e0,,active
@@ -661,6 +663,7 @@ Ryde Repeater 🔁,f5b41c43d5600c89bdf60fd411b94bd734ab1c764a1bc49e92e669a36d3be
 Baranduda - RPTR,f615489b83994358e8080a5e78e83943828abde9ae60a689af3df382d128210f,,active
 ♾️ MMTV - XXX,f6feedb490ce49cfe0941ffce850fa1ea753f7c1d70bbd6f54f740d19448be50,,
 〽️ - Greenacre WL,f72b520247a7ee704c2ad22d9a29d6b95f861faa38e662f90298b91169c47498,,active
+🚀 - CherrybrookT,f7a6217d3dc0d596ebd2d245de3ba058c93fb7d0ef64a3f12911d5ab5868e50e,,active
 SA - 2190 Greenacre 2,f7aeb38db6e6410ec8aa363834834276179d1409548be26873f0649a42ca610b,,active
 🌱Test V3,f7bc3088b2cdf48e90fd45057b2d9241aacc16d0f30d013e9b0e5c2309984ecc,,delete
 Upperbundah 🦉,f8fc72c0cf4c4c04f0cce887355949fdd873c639deec7576b5188caf538d7c53,,active
@@ -670,7 +673,7 @@ Mt Hugel near Adelong-Tumut,f9b87d3ec231b2dd58f0a7ef664eb833b6f474013b1031b081f8
 ♾️ MMTV - TBA - Sol,f9feedfa9b091d3b9a3b71d242a720080b9cb438bf47d40b0232a731319815a1,,active
 𝄞Fa,fa1f28b7ccdd0172bd42f8ccc615941e6ba6fc33630d751f4e0cf4d73c388b47,,delete
 🌱Bridge Rd☀️,fa292f7b7d18241d38c7a1db7ec1fccb4ec9d22201276cc062707e0ef489efad,,delete
-FarKurnell_T114_ mid,faac132f5fc5be8c0a5a636e63e2e843ec2f244401f8347d36e24ea7d264a75d,,active
+FarKurnell_T114,faac132f5fc5be8c0a5a636e63e2e843ec2f244401f8347d36e24ea7d264a75d,,active
 MWR,fab5a14fa80376895d30ad84f9b42a62ac808078e2e765a0c24e10d89851b2d8,,active
 RockFace Repeater,faceeb2d3052a4caeda7cfcf5e3510bd3823ea7c273fb719bd697311ea43d07f,,active
 GymReps_M1_pyMC,faece56ec57fd3bba0952dd7a5ba4d8acead6ce113b37408823425e95bc91235,,active
